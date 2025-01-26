@@ -1,6 +1,6 @@
 import ShareIcon from "../assets/share.svg";
 import compareIcon from "../assets/compare.svg";
-import heartIcon from "../assets/heart1.svg";
+import heartIcon from "../assets/Heart1.svg";
 import { useNavigate } from "react-router-dom";
 
 const ShopCard = ({ item }) => {
