@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "name": "Bed Frame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://cdn.pixabay.com/photo/2021/04/22/18/50/frames-6199828_1280.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak"
+  },
+  {
+    "id": 2,
+    "name": "Dining seeeeeeeeeeeet",
+    "title": "Modern Dining Table Set",
+    "price": "$499.99",
+    "img": "https://cdn.pixabay.com/photo/2019/06/01/11/04/plant-4243898_1280.jpg",
+    "description": "Contemporary dining table set with six chairs, featuring a sleek glass tabletop and chrome legs for a modern touch.",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 312
+    },
+    "size": "6-Piece",
+    "color": "Glass & Silver"
+  },
+  {
+    "id": 4,
+    "name": "Dining Chairs",
+    "title": "Elegant Dining Chairs (Set of 4)",
+    "price": "$229.99",
+    "img": "https://cdn.pixabay.com/photo/2017/01/07/17/48/interior-1961070_1280.jpg",
+    "description": "Stylish and comfortable set of four dining chairs with upholstered fabric, ideal for any modern dining space.",
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 220
+    },
+    "size": "Standard",
+    "color": "Gray"
+  },
+  {
+    "id": 5,
+    "name": "Nightstand",
+    "title": "Rustic Wooden Nightstand",
+    "price": "$89.99",
+    "img": "https://cdn.pixabay.com/photo/2020/08/25/18/28/workplace-5517744_1280.jpg",
+    "description": "Rustic wooden nightstand with two spacious drawers, perfect for adding storage and style to your bedroom.",
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 175
+    },
+    "size": "Standard",
+    "color": "Rustic Brown"
+  },
+  {
+    "id": 6,
+    "name": "Bed Frame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak"
+  },
+  {
+    "id": 7,
+    "name": "Dining Set",
+    "title": "Modern Dining Table Set",
+    "price": "$499.99",
+    "img": "https://example.com/images/dining-table-set.jpg",
+    "description": "Contemporary dining table set with six chairs, featuring a sleek glass tabletop and chrome legs for a modern touch.",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 312
+    },
+    "size": "6-Piece",
+    "color": "Glass & Silver"
+  },
+  {
+    "id": 8,
+    "name": "Comforter Set",
+    "title": "Luxury Bed Comforter Set",
+    "price": "$129.99",
+    "img": "https://example.com/images/comforter-set.jpg",
+    "description": "Soft and plush king-size comforter set, perfect for adding a touch of luxury and warmth to your bedroom.",
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 890
+    },
+    "size": "King",
+    "color": "Navy Blue"
+  },
+  {
+    "id": 9,
+    "name": "Dining Chairs",
+    "title": "Elegant Dining Chairs (Set of 4)",
+    "price": "$229.99",
+    "img": "https://example.com/images/dining-chairs.jpg",
+    "description": "Stylish and comfortable set of four dining chairs with upholstered fabric, ideal for any modern dining space.",
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 220
+    },
+    "size": "Standard",
+    "color": "Gray"
+  },
+  {
+    "id": 10,
+    "name": "Nightstand",
+    "title": "Rustic Wooden Nightstand",
+    "price": "$89.99",
+    "img": "https://example.com/images/nightstand.jpg",
+    "description": "Rustic wooden nightstand with two spacious drawers, perfect for adding storage and style to your bedroom.",
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 175
+    },
+    "size": "Standard",
+    "color": "Rustic Brown"
+  },
+  {
+    "id": 11,
+    "name": "Bed Frame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://example.com/images/king-bed-frame.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak"
+  },
+  {
+    "id": 12,
+    "name": "Dining Set",
+    "title": "Modern Dining Table Set",
+    "price": "$499.99",
+    "img": "https://example.com/images/dining-table-set.jpg",
+    "description": "Contemporary dining table set with six chairs, featuring a sleek glass tabletop and chrome legs for a modern touch.",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 312
+    },
+    "size": "6-Piece",
+    "color": "Glass & Silver"
+  },
+  {
+    "id": 13,
+    "name": "Comforter Set",
+    "title": "Luxury Bed Comforter Set",
+    "price": "$129.99",
+    "img": "https://example.com/images/comforter-set.jpg",
+    "description": "Soft and plush king-size comforter set, perfect for adding a touch of luxury and warmth to your bedroom.",
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 890
+    },
+    "size": "King",
+    "color": "Navy Blue"
+  },
+  {
+    "id": 14,
+    "name": "Dining Chairs",
+    "title": "Elegant Dining Chairs (Set of 4)",
+    "price": "$229.99",
+    "img": "https://example.com/images/dining-chairs.jpg",
+    "description": "Stylish and comfortable set of four dining chairs with upholstered fabric, ideal for any modern dining space.",
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 220
+    },
+    "size": "Standard",
+    "color": "Gray"
+  },
+  {
+    "id": 15,
+    "name": "Nightstand",
+    "title": "Rustic Wooden Nightstand",
+    "price": "$89.99",
+    "img": "https://example.com/images/nightstand.jpg",
+    "description": "Rustic wooden nightstand with two spacious drawers, perfect for adding storage and style to your bedroom.",
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 175
+    },
+    "size": "Standard",
+    "color": "Rustic Brown"
+  },
+  {
+    "id": 16,
+    "name": "Bed Frame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://example.com/images/king-bed-frame.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak"
+  },
+  {
+    "id": 17,
+    "name": "Dining Set",
+    "title": "Modern Dining Table Set",
+    "price": "$499.99",
+    "img": "https://example.com/images/dining-table-set.jpg",
+    "description": "Contemporary dining table set with six chairs, featuring a sleek glass tabletop and chrome legs for a modern touch.",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 312
+    },
+    "size": "6-Piece",
+    "color": "Glass & Silver"
+  },
+  {
+    "id": 18,
+    "name": "Comforter Set",
+    "title": "Luxury Bed Comforter Set",
+    "price": "$129.99",
+    "img": "https://example.com/images/comforter-set.jpg",
+    "description": "Soft and plush king-size comforter set, perfect for adding a touch of luxury and warmth to your bedroom.",
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 890
+    },
+    "size": "King",
+    "color": "Navy Blue"
+  },
+  {
+    "id": 19,
+    "name": "Dining Chairs",
+    "title": "Elegant Dining Chairs (Set of 4)",
+    "price": "$229.99",
+    "img": "https://example.com/images/dining-chairs.jpg",
+    "description": "Stylish and comfortable set of four dining chairs with upholstered fabric, ideal for any modern dining space.",
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 220
+    },
+    "size": "Standard",
+    "color": "Gray"
+  },
+  {
+    "id": 20,
+    "name": "Nightstand",
+    "title": "Rustic Wooden Nightstand",
+    "price": "$89.99",
+    "img": "https://example.com/images/nightstand.jpg",
+    "description": "Rustic wooden nightstand with two spacious drawers, perfect for adding storage and style to your bedroom.",
+    "reviews": {
+      "average_rating": 4.2,
+      "total_reviews": 175
+    },
+    "size": "Standard",
+    "color": "Rustic Brown"
+  },
+  {
+    "name": "Bed Fraaaaaame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://cdn.pixabay.com/photo/2021/04/22/18/50/frames-6199828_1280.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak",
+    "id": 21
+  },
+  {
+    "name": "Bed Fraaaaaame",
+    "title": "King Size Bed Frame",
+    "price": "$349.99",
+    "img": "https://cdn.pixabay.com/photo/2021/04/22/18/50/frames-6199828_1280.jpg",
+    "description": "Elegant king size bed frame with a sturdy wooden structure and luxurious tufted headboard, perfect for your master bedroom.",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 540
+    },
+    "size": "King",
+    "color": "Dark Oak",
+    "id": 22
+  },
+  {
+    "name": "large samir bed",
+    "title": "comfertable for samir ",
+    "price": "$4000.99",
+    "img": "https://cdn.pixabay.com/photo/2022/01/20/17/51/office-desk-6952918_1280.jpg",
+    "description": "hhhhhhhhhhafkjajkfakjhdkjfhakjsdhjfkasjhdfkjahskjhfkjashkjfhkjashkjfhasjkhfjkhaskjhfkjhaskf",
+    "id": 23
+  },
+  {
+    "name": "sofa",
+    "title": "nice long sofa",
+    "price": "499.99",
+    "img": "https://cdn.pixabay.com/photo/2016/11/19/13/06/bed-1839183_1280.jpg",
+    "description": "affddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+    "id": 24
+  }
+]

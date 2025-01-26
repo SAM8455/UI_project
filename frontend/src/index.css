@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Hide scrollbar only on larger screens */
+@media (min-width: 768px) {
+  .md\:scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+  .md\:scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
